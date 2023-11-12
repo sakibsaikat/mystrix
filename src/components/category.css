@@ -1,0 +1,54 @@
+
+.swiper2 {
+    width: 240px;
+    height: 320px;
+  }
+  
+  .swiper2-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+
+  
+  .swiper2-slide:nth-child(1n) {
+    background: linear-gradient(45deg,#D4145A , #FBB03B);
+  }
+  
+  .swiper2-slide:nth-child(2n) {
+    background: linear-gradient(45deg,#009245 , #FCEE21);
+  }
+  
+  .swiper2-slide:nth-child(3n) {
+    background: linear-gradient(45deg,#D4145A , #FBB03B);
+  }
+  
+  .swiper2-slide:nth-child(4n) {
+    background: linear-gradient(45deg,#040c30 , rgb(111, 109, 237));
+  }
+  
+  .swiper2-slide:nth-child(5n) {
+    background: linear-gradient(45deg,#FF512F , #DD2476);
+  }
+  
+  .swiper2-slide:nth-child(7n) {
+    background: linear-gradient(45deg,#FF5F6D , #FFC371);
+  }
+  
+  .swiper2-slide:nth-child(8n) {
+    background: linear-gradient(45deg,#11998E , #38EF7D);
+  }
+  
+  .swiper2-slide:nth-child(9n) {
+    background: linear-gradient(45deg,#FF61D2 , #FE9090);
+  }
+  
+  .swiper2-slide:nth-child(10n) {
+    background: linear-gradient(45deg,#764BA2 , #667EEA);
+  }
+  
